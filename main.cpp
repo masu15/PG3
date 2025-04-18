@@ -1,7 +1,7 @@
 #include"stdio.h"
-main() 
+int main()
 {
-	printf("hallo PG3! 00_01");
+	printf("Å‰ºˆÊ’EoI");
 
 	return 0;
 }
